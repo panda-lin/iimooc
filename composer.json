@@ -1,0 +1,16 @@
+{
+  "name":"IMOOC PHP",
+  "description":"PHP Framework",
+  "type":"Framework",
+  "keywork":[
+    "php","php framework"
+  ],
+  "author":"panda",
+  "require":{
+    "php":">=5.3.0",
+    "filp/whoops":"*",
+    "symfony/var-dumper":"*",
+    "catfan/medoo":"*",
+    "twig/twig":"*"
+  }
+}
